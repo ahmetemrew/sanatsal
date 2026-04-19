@@ -13,3 +13,10 @@
 .externalNativeBuild
 .cxx
 local.properties
+*.apk
+*.aab
+*.ap_
+*.dex
+!github-apks/
+!github-apks/*.apk
+!github-apks/README.md
